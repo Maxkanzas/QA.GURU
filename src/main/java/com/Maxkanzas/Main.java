@@ -2,6 +2,6 @@ package com.Maxkanzas;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.printf("Hello QAgit!");
+        System.out.printf("Hello QA.GURU!!!!!!");
     }
 }
